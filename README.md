@@ -86,6 +86,20 @@ Advanced SQL concepts used:
 * Repeat Customer Metrics
 * Customer Retention Insights
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](01_Executive_Overview.png)
+
+### Customer Analytics
+![Customer Analytics](02_Customer_Analytics.png)
+
+### Product Analytics
+![Product Analytics](03_Product_Analytics.png)
+
+### Retention Analytics
+![Retention Analytics](04_Retention_Analytics.png)
+
 ## Key Findings
 
 * 96.88% of customers placed only one order.
